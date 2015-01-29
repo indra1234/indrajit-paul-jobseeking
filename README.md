@@ -13,6 +13,9 @@ Address:
 Arabinda pally, Burdwan
 West Bengal: 713101
 India
+## My skills :
+My skills and  experience are also available in there.
 
 in.linkedin.com/in/indra1234
+
 https://www.xing.com/profile/Indrajit_Paul3
