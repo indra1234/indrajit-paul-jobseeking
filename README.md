@@ -20,16 +20,26 @@ My skills are:
 12.Soldering & testing 
 13. MSIRA -C(2004) 
 14. Microcontroller ( interfacing peripheral device with microcontroller , sensor interfacing, motor driver, A/D , D/A converter, CAN , USB, UART communication , LCD, TFT , touch Screen interfacing ) 
+
 I have described my project in there: 
 https://github.com/indra1234 
+
 https://github.com/indra1234/workprobe3 
+
 https://github.com/indra1234/workprobe2 
+
 https://github.com/indra1234/workprobe1 
+
 and my Gist are in: https://gist.github.com/indra1234 
+
 https://gist.github.com/indra1234/f8cd5def22fc6b00272f 
+
 https://gist.github.com/indra1234/de22ba1937635a2dfb28 
+
 https://gist.github.com/indra1234/e39b82eca2535b8b904c 
+
 https://gist.github.com/indra1234/0a8cfc1a2670d92f6484 
+
 https://gist.github.com/indra1234/acf9395fd115d3001507 
 
 
@@ -38,6 +48,7 @@ I am experienced and also having a Hands on experience on Electronics Hardware &
 Now I want to relocate or work in Germany because In Europe Germany is very developed and also in there Electronics R&D is very good . Also i have basic knowledge on Germany Language. 
 
 So thats my request to you that if you have any current job opening and also the job requirement will match with my profile then please contact me. 
+
 My contact details: 
 E-mail Id: indra.p21@gmail.com 
 Mobile: +91 9614480169
